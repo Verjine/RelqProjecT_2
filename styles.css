@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url("https://media.newyorker.com/photos/5909731f8b51cf59fc422b37/master/pass/Schulmiller-What-Your-Facebook-Birthday-Wish-Says-About-You.jpg")
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    /* height: 1000x; */  
+    margin-top: 20px;  
+}
+#countdown{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.time{
+    /* text-align: center; */
+    display: inline-block;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-size: 30px;
+    margin-top: 1px;
+    
+ 
+    
+
+}
